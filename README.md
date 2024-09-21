@@ -30,7 +30,7 @@
 
 • Calls set_game_pointer to initialize the game_pointer array with the memory addresses of the game board cells.
 
-##Main Loop:
+## Main Loop:
 
 • Clears the screen.
 
